@@ -1,0 +1,25 @@
+# These are just special surnames that will be used later on in the development, these surnames are
+are purposefully stored for countries which have unique surnames such as Portuguese speaking countries
+, Arabian and Far East nations #
+
+@Portuguese
+Francisco
+Da Silva
+Dos Santos
+Pedro
+Da Costa
+Rodrigues
+Oliveira
+Fernandes
+Pereira
+
+@Arabics
+Abdullah
+Al-Mansoor
+Al-Hassan
+Al-Hakim
+Al-Mindhir
+Al-Bahassan
+
+@Cambodians
+Sok

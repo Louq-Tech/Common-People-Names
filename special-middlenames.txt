@@ -1,0 +1,10 @@
+# These are just special middle names that will be used later on in the development, these middle names are
+are purposefully stored for countries which have unique middle names such as Netherlands and Cambodia
+
+
+@Cambodia
+Thi - Females
+Van - Males
+
+@Netherlands
+Van
